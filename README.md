@@ -1,9 +1,10 @@
-### <h1 align="center">Good Morning Sir 👋</h1> </br>
+### <h1 align="center">🌵 Hello all! 🌵</h1> </br>
 
-<p>🔭 I’m currently working on Spotify AdBlock</p> </br>
-<p>🌱 I’m currently learning JavaScript and Swift</p> </br>
-<p>💬 Ask me about anything you want 😅  </p></br>
-<p>📫 How to reach me: ... </p>
+<p>🎥 I’m a youtuber who want to learn some programming in free time</p> </br>
+<p>💰 Currently I'm working on AirBox Shop new improvements</p> </br>
+<p>💬 Text me if you want to know anything!  </p></br>
+<p>📫 How you can reach me: </p>
+<p>📩 spinjtzu@gmail.com </p>
 
 
 <h2 align="center">Stats</h2>
