@@ -20,13 +20,13 @@
 
 
 
-
 <h2 align="center"> Contact </h2>
 
-[![](https://img.shields.io/static/v1?cacheSeconds=86400&style=for-the-badge&label=&logoColor=FFFFFF&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0iZmVhdGhlciBmZWF0aGVyLWdsb2JlIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCI+PC9jaXJjbGU+PGxpbmUgeDE9IjIiIHkxPSIxMiIgeDI9IjIyIiB5Mj0iMTIiPjwvbGluZT48cGF0aCBkPSJNMTIgMmExNS4zIDE1LjMgMCAwIDEgNCAxMCAxNS4zIDE1LjMgMCAwIDEtNCAxMCAxNS4zIDE1LjMgMCAwIDEtNC0xMCAxNS4zIDE1LjMgMCAwIDEgNC0xMHoiPjwvcGF0aD48L3N2Zz4=&color=363D59&message=Website)](https://kuczis.cf/)
-[![](https://img.shields.io/static/v1?cacheSeconds=86400&style=for-the-badge&label=&logoColor=FFFFFF&logo=facebook&color=1DA1F2&message=facebook)](https://facebook.com/kuczisa/)
-[![](https://img.shields.io/static/v1?cacheSeconds=86400&style=for-the-badge&label=&logoColor=FFFFFF&logo=instagram&color=1DA1F2&message=facebook)](https://instagram.com/hipolitplatek)
-[![](https://img.shields.io/static/v1?cacheSeconds=86400&style=for-the-badge&label=&logoColor=FFFFFF&logo=discord&color=7289DA&message=discord)](https://discordapp.com/users/657289733998641162)
+<! [![](https://img.shields.io/static/v1?cacheSeconds=86400&style=for-the-badge&label=&logoColor=FFFFFF&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0iZmVhdGhlciBmZWF0aGVyLWdsb2JlIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCI+PC9jaXJjbGU+PGxpbmUgeDE9IjIiIHkxPSIxMiIgeDI9IjIyIiB5Mj0iMTIiPjwvbGluZT48cGF0aCBkPSJNMTIgMmExNS4zIDE1LjMgMCAwIDEgNCAxMCAxNS4zIDE1LjMgMCAwIDEtNCAxMCAxNS4zIDE1LjMgMCAwIDEtNC0xMCAxNS4zIDE1LjMgMCAwIDEgNC0xMHoiPjwvcGF0aD48L3N2Zz4=&color=363D59&message=Website)](https://kuczis.cf/) >
+
+[![](https://img.shields.io/static/v1?cacheSeconds=86400&style=for-the-badge&label=&logoColor=FFFFFF&logo=facebook&color=1DA1F2&message=facebook)](https://www.facebook.com/aleks.dudek.71)
+[![](https://img.shields.io/static/v1?cacheSeconds=86400&style=for-the-badge&label=&logoColor=FFFFFF&logo=instagram&color=1DA1F2&message=facebook)](https://www.instagram.com/aleksdudek78/)
+[![](https://img.shields.io/static/v1?cacheSeconds=86400&style=for-the-badge&label=&logoColor=FFFFFF&logo=discord&color=7289DA&message=discord)](https://discord.com/channels/@me/810806236852650016)
 
 <h2 align="center">Known tools</h2>
 
