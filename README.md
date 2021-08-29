@@ -18,7 +18,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Aleksio-DuDo&show_icons=true&title_color=f1e05a&icon_color=f1e05a&text_color=ffffff&bg_color=000001&border_radius=1rem)
 
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksio-DuDp&layout=compact&count_private=true&hide_border=true&hide_title=false&theme=react)
 
 <h2 align="center"> Contact </h2>
 
